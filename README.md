@@ -1,4 +1,17 @@
-## Hi there 👋
+Hi, I'm Mandeep Singh 👋
+About Me
+🌱 Currently learning programming and GitHub
+💻 Interested in software development
+🚀 Building projects and improving my skills
+Skills
+HTML
+CSS
+JavaScript
+Git & GitHub
+Contact
+GitHub: @mandeep13111
+
+Thanks for visiting my profile!
 
 <!--
 **mandeep13111/mandeep13111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
